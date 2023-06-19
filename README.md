@@ -1,20 +1,59 @@
-# Hey, I'm W1L7dev
-### Python, Web and Unity Developer
-
-Sup everyone, I'm W1L7dev, a 14 year old developer from Canada 🍁. I'm currently working on a few projects, including a Discord bot, my own website and a game. I'm also learning C# and Rust.
-
-## Languages and Tools
+<img src="banner.svg" width="100%">
 
 <div align="center">
-  <img alt="Python" width="37px" src="python.png" />
-  <img alt="HTML5" width="37px" src="html.png" />
-  <img alt="CSS3" width="37px" src="css.png" />
-  <img alt="JavaScript" width="37px" src="javascript.png" />
-  <img alt="Node.js" width="37px" src="nodejs.png" />
-  <img alt="Git" width="37px" src="git.png" />
+
+# Hi there 👋
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@W1L7)](https://www.youtube.com/@W1L7) [![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&link=https://w1l7.itch.io/)](https://w1l7.itch.io/) [![Github User Badge](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white&link=)](https://github.com/W1L7dev)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/W1L7dev)](https://twitter.com/W1L7dev) [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=)](https://discord.com/)
+
 </div>
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1L7dev&theme=dark&show_icons=true)](https://github.com/W1L7dev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1L7dev&layout=compact&theme=dark)](https://github.com/W1L7dev/github-readme-stats)
+## `💻 About me`
+
+- 🎓 I'm a Canadian Student 🍁
+- 🌱 I’m currently learning Rust 🦀 and C# 🌐
+- 🎹 I enjoy playing music 🎵
+- 📂 I started programming `3 years ago`
+
+## `🔧 Languages and Tools`
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## `📚 Projects`
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=devbot&theme=dark)](https://github.com/W1L7dev/devbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=Pathfinding&theme=dark)](https://github.com/W1L7dev/Pathfinding)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=CodeVoice&theme=dark)](https://github.com/W1L7dev/CodeVoice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=logmaster&theme=dark)](https://github.com/W1L7dev/logmaster)
+
+## `📊 Stats`
+
+![W1L7's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1L7dev&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1L7dev&layout=compact&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=W1L7dev&theme=dark)](https://git.io/streak-stats)
+
+## `📫 Contact`
+
+- 📧 Email: [w1l7dev@gmail.com](mailto:w1l7dev@gmail.com)
+- 🎮 Discord: W1L7#9944
+- 🐦 Twitter: [@W1L7dev](https://twitter.com/W1L7dev)
