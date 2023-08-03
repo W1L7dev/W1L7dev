@@ -4,8 +4,8 @@
 
 # Hi there 👋
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@W1L7)](https://www.youtube.com/@W1L7) [![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&link=https://w1l7.itch.io/)](https://w1l7.itch.io/) [![Github User Badge](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white&link=)](https://github.com/W1L7dev)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/W1L7dev)](https://twitter.com/W1L7dev) [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=)](https://discord.com/)
+[![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&link=https://w1l7.itch.io/)](https://w1l7.itch.io/)
+[![Github User Badge](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white&link=)](https://github.com/W1L7dev)
 
 </div>
 
@@ -20,7 +20,6 @@
 
 ## `🔧 Languages and Tools`
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -33,7 +32,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
