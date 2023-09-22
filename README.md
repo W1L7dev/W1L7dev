@@ -34,8 +34,6 @@
 ## `📚 Projects`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=devbot&theme=dark)](https://github.com/W1L7dev/devbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=Pathfinding&theme=dark)](https://github.com/W1L7dev/Pathfinding)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=CodeVoice&theme=dark)](https://github.com/W1L7dev/CodeVoice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=logmaster&theme=dark)](https://github.com/W1L7dev/logmaster)
 
 ## `📊 Stats`
