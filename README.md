@@ -48,4 +48,3 @@
 
 - 📧 Email: [w1l7dev@gmail.com](mailto:w1l7dev@gmail.com)
 - 🎮 Discord: W1L7#9944
-- 🐦 Twitter: [@W1L7dev](https://twitter.com/W1L7dev)
