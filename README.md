@@ -1,85 +1,50 @@
-<img src="banner.svg" width="100%">
-
-<div align="center">
-
 # Hi there 👋
 
-[![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&link=https://w1l7.itch.io/)](https://w1l7.itch.io/)
-[![Github User Badge](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white&link=)](https://github.com/W1L7dev)
-
-</div>
-
----
-
-## `💻 About me`
+## Intro 📖
 
 - 🎓 I'm a Canadian Student 🍁
-- 🌱 I’m currently learning Rust 🦀 and C# 🌐
+- 🌱 I’m currently learning C++ 💻 and JavaScript 🌐
 - 🎹 I enjoy playing music 🎵
-- 📂 I started programming `3 years ago`
+- 📂 I started programming **3 years ago** ❗
+- 📫 How to reach me: [Email](mailto:w1l7dev@gmail.com) ✉
 
-<details>
-  <summary>
-    <h2><code>🔧 Languages and Tools</code></h2>
-  </summary>
-  
-  ### Languages
-  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  
-  ### Frameworks, Modules & Librairies
-  
-  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  
-  ### IDE & Text Editors
-  
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-  
-  ### Version Control
-  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
-  ### Database
-  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  
-  ### Operating Systems
-  
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  
-  ### Others
-  
-  ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## Stats 📊
 
-</details>
+![W1L7dev's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W1L7dev&theme=algolia)
+![W1L7dev's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=W1L7dev&theme=algolia)
+![W1L7dev's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=W1L7dev&theme=algolia)
+![W1L7dev's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=W1L7dev&theme=algolia)
+![W1L7dev's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=W1L7dev&theme=algolia)
 
-## `📚 Projects`
+## Languages 📚
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=devbot&theme=dark)](https://github.com/W1L7dev/devbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W1L7dev&repo=logmaster&theme=dark)](https://github.com/W1L7dev/logmaster)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3)
+![Bash](https://img.shields.io/badge/bash-%23323330.svg?style=for-the-badge&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/powershell-%23323330.svg?style=for-the-badge&logo=powershell)
 
-## `📊 Stats`
+## Tools 🛠
 
-![W1L7's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1L7dev&show_icons=true&theme=dark)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23323330.svg?style=for-the-badge&logo=visual-studio-code)
+![NeoVim](https://img.shields.io/badge/neovim-%23323330.svg?style=for-the-badge&logo=neovim)
+![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql)
+![Windows](https://img.shields.io/badge/windows-%23323330.svg?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/ubuntu-%23323330.svg?style=for-the-badge&logo=ubuntu)
+![Obsidian](https://img.shields.io/badge/obsidian-%23323330.svg?style=for-the-badge&logo=obsidian)
+![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma)
+![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1L7dev&layout=compact&theme=dark)
+## Frameworks 📦
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=W1L7dev&theme=dark)](https://git.io/streak-stats)
-
-## `📫 Contact`
-
-- 📧 Email: [w1l7dev@gmail.com](mailto:w1l7dev@gmail.com)
-- 🎮 Discord: W1L7#9944
+![Qt](https://img.shields.io/badge/qt-%23323330.svg?style=for-the-badge&logo=qt)
+![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/fastapi-%23323330.svg?style=for-the-badge&logo=fastapi)
+![MatPlotLib](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=addthis)
+![NumPy](https://img.shields.io/badge/numpy-%23323330.svg?style=for-the-badge&logo=numpy)
+![Jupyter](https://img.shields.io/badge/jupyter-%23323330.svg?style=for-the-badge&logo=jupyter)
+![Pandas](https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas)
